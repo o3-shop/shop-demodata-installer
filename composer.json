@@ -18,7 +18,7 @@
   ],
   "require": {
     "php": "^7.4 || ^8.0",
-    "symfony/filesystem": "^4.4.17",
+    "symfony/filesystem": "^5.4 || ^6.0",
     "o3-shop/shop-facts": "^1.0.0"
   },
   "require-dev": {
